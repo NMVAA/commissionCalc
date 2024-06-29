@@ -6,7 +6,7 @@ const {
   getCashInConf,
   getCashOutNaturalConf,
   getCashOutJuridicalConf,
-} = require('./src/cashInOutConfig');
+} = require('./src/apiConfig');
 const {
   calcCashInCommission,
   calcCashOutJuridicalCommission,

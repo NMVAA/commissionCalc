@@ -1,4 +1,4 @@
-const { test, expect } = require('jest');
+/* eslint-disable no-undef */
 const {
   calcCashInCommission,
   calcCashOutJuridicalCommission,
